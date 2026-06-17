@@ -84,7 +84,7 @@ def action():
             print("\nPlease provide a valid input.")
 
 # Printing this statement 1 time
-print("Welcome to the Shahood's Coffee Shop Simulator")
+print("Welcome to the Chris's Coffee Shop Simulator")
 
 
 action()
